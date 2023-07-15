@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rinto</h1>
-<h3 align="center">A passionate AOSP Embedded Developer from India</h3>
+<h3 align="center">A passionate AOSP Embedded Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satorugojo2k23&label=Profile%20views&color=0e75b6&style=flat" alt="satorugojo2k23" /> </p>
 
