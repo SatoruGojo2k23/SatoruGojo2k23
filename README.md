@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satorugojo2k23" alt="SatoruGojo2k23" /></a> </p>
 
-- 🔭 I’m currently working on Android OS upgrade to Android 13
+- 🔭 I’m currently working for device RMX2020 on Android 13
 
-- 👯 I’m looking to collaborate on **AOSP projects, Android OS xTS fixes, Open Source Android Custom ROMs**
